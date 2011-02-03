@@ -15,7 +15,7 @@ function do_something_useless() {
   $variable = TRUE;
   // Waste time with a useless controll statement.
   if ($variable == TRUE) {
-    // Set useless variable to FALSE.
+    // Waste some more time and set useless variable to FALSE.
     $variable = FALSE;
   }
   // Return the useless variable.
