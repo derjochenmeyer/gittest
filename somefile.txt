@@ -1,1 +1,4 @@
-This is just a regular textfile.
+This is a regular textfile.
+
+Cystitis: A German introduction:
+Das Eindringen von Erregern - Bakterien in den Urogenitaltrakt der Frau kann eine urogenitale Infektion auslösen. Bedingt u.a. durch die kurze Harnröhre, der bakteriellen Besiedlung des Dammes und des vaginalen Bereiches der Frau kommt es bei dieser häufiger zum urogenitalen Infekt als beim Mann.

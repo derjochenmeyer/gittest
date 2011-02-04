@@ -20,4 +20,20 @@ function do_something_useless() {
   }
   // Return the useless variable.
   return $variable;
+  // A last comment on this.
 }
+
+// With this change git branch -d firstbranch should fail.
+
+/**
+ * Another testfunction.
+ */
+function another_test($test) {
+  print_r($GLOBALS);
+  foreach ($GLOBALS as $key => $value) {
+    if ($value == $test) {
+      return 'Was für ein Zufall!';
+    }
+  }
+}
+
